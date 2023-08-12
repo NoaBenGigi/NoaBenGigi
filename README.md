@@ -1,9 +1,11 @@
 <h1 align="center">Hi 👋, I'm Noa Ben-Gigi</h1>
-<h3 align="center">A passionate software developer</h3>
+<h3 align="center">**✨ I'm a Software Engineering Graduate. ✨**
+</h3>
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">📫 How to reach me</h3>
 <p align="left">
 <a href="https://linkedin.com/in/noa-ben-gigi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="noa-ben-gigi" height="30" width="40" /></a>
+  
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
