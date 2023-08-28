@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Noa Ben-Gigi</h1>
+<h1 align="center">Hi 👋, I'm Noa Roban</h1>
 <h3 align="center">**✨ I'm a Software Engineering Graduate. ✨**
 </h3>
 
